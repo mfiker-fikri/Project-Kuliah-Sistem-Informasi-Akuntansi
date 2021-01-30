@@ -75,13 +75,13 @@ Login
 ***************
 
 Kasir
-Username : kasir
-Password : kasir
+-  `Username : kasir`_
+-  `Password : kasir`_
 
 Admin
-Username : admin
-Password : admin
+-  `Username : admin`_
+-  `Password : admin`_
 
 akuntan
-Username : akuntan
-Password : akuntan
+-  `Username : akuntan`_
+-  `Password : akuntan`_
