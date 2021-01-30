@@ -68,3 +68,20 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+
+***************
+Login
+***************
+
+Kasir
+Username : kasir
+Password : kasir
+
+Admin
+Username : admin
+Password : admin
+
+akuntan
+Username : akuntan
+Password : akuntan
