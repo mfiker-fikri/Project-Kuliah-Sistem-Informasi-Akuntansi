@@ -74,14 +74,27 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 Login
 ***************
 
-Kasir
--  `Username : kasir`_
--  `Password : kasir`_
-
 Admin
 -  `Username : admin`_
 -  `Password : admin`_
 
-akuntan
+Kasir
+-  `Username : kasir`_
+-  `Password : kasir`_
+
+Akuntan
 -  `Username : akuntan`_
 -  `Password : akuntan`_
+
+*******************
+Preview Photo Website
+*******************
+
+Admin
+![Admin](https://user-images.githubusercontent.com/63968685/110331207-65967e80-8051-11eb-8638-084b0b7f88da.png)
+
+Kasir
+![Kasir](https://user-images.githubusercontent.com/63968685/110331219-69c29c00-8051-11eb-95cc-9b710bbf15d6.png)
+
+Akuntan
+![Akuntan](https://user-images.githubusercontent.com/63968685/110331210-67604200-8051-11eb-90c1-64ade1d0cb9c.png)
